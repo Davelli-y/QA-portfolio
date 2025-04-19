@@ -36,8 +36,7 @@ Utilizei o comando `cy.viewport()` para validar o comportamento responsivo da ap
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/Davelli-y/qa-cypress
 ```
 
 2. Instale as dependências:
@@ -55,12 +54,7 @@ Ou execute em modo headless:
 npx cypress run
 ```
 
-## 📸 Evidências (opcional)
-
-Você pode incluir prints de tela ou vídeos gerados automaticamente na pasta `cypress/videos` ou `cypress/screenshots` após a execução.
 
 ---
-
-🔎 Este projeto foi parte de um desafio técnico para a vaga de **Analista QA Júnior** na **Voll Solutions**, e também serve como portfólio pessoal.
 
 📌 Desenvolvido por [Guilherme Yamaguchi (Guilherme Davelli)](https://www.linkedin.com/in/davelli-y)
